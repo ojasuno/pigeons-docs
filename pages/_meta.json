@@ -1,7 +1,8 @@
 {
   "index": "Introduction",
   "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
+  "variants": "Color Variants",
+  "reveals": "Roll Reveals",
   "about": {
     "title": "About",
     "type": "page"
