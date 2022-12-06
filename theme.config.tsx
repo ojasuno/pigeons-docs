@@ -7,11 +7,11 @@ const config: DocsThemeConfig = {
     link: 'https://github.com/ojasuno/pigeons-docs',
   },
   chat: {
-    link: 'discord.gg/josie',
+    link: "https://discord.com/invite/josie",
   },
   docsRepositoryBase: 'https://github.com/ojasuno/pigeons-docs',
   footer: {
-    text: "[Unofficial Don't Feed The Pigeosn]",
+    text: "[Unofficial Don't Feed The Pigeons]",
   },
 }
 
