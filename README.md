@@ -1,13 +1,11 @@
 # Unofficial Don't Feed The Pigeons
 
-This is a template for creating documentation with [Nextra](https://nextra.site).
+[**Pigeons Site →**](https://www.pigeons.monster/)
 
-[**Live Site →**](https://www.pigeons.monster/)
-
-[![](.github/screenshot.png)](https://nextra-docs-template.vercel.app)
+![12 Pigeons](/_assets/_github/12-pigeons.jpeg)
 
 ## More Stuff
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT [License](LICENSE).
