@@ -2,7 +2,7 @@
 
 [**Pigeons Site →**](https://www.pigeons.monster/)
 
-![12 Pigeons](/_assets/_github/12-pigeons.jpeg)
+![12 Pigeons](_assets/_github/12-pigeons.jpeg)
 
 ## More Stuff
 
