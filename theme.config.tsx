@@ -38,6 +38,7 @@ const config: DocsThemeConfig = {
       <meta property="og:description" content={frontMatter.description || "Unoffical Don't Feed The Pigeons"} />
     </>
   },
+  faviconGlyph: '🖖',
 }
 
 export default config
