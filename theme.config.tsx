@@ -25,7 +25,9 @@ const config: DocsThemeConfig = {
   },
   docsRepositoryBase: 'https://github.com/ojasuno/pigeons-docs',
   footer: {
-    text: "[Unofficial Don't Feed The Pigeons]",
+    text: <span>
+      MIT {new Date().getFullYear()} © <a href="https://pigeons.monster" target="_blank">Pigeons</a>.
+    </span>,
   },
   head: () => {
     const { asPath } = useRouter()
