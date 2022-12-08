@@ -9,6 +9,7 @@
 ## More Stuff
 
 A WIP project, built and maintained by a [JOSIE](https://josie.io/) community member.
+
 ---
 
 ## License
