@@ -3,6 +3,7 @@
   "panel": "Panel",
   "variants": "Color Variants",
   "reveals": "Roll Reveals",
+  "code": "Smart Contracts",
   "about": {
     "title": "About",
     "type": "page"
