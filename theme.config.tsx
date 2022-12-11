@@ -18,17 +18,18 @@ const config: DocsThemeConfig = {
     </>
   ),
   project: {
-    link: 'https://github.com/ojasuno/pigeons-docs',
+    link: "https://github.com/ojasuno/pigeons-docs",
   },
   chat: {
     link: "https://discord.com/invite/josie",
   },
-  docsRepositoryBase: 'https://github.com/ojasuno/pigeons-docs',
+  docsRepositoryBase: "https://github.com/ojasuno/pigeons-docs",
   footer: {
     text: <span>
       MIT {new Date().getFullYear()} © <a href="https://pigeons.monster" target="_blank">Pigeons</a>.
     </span>,
   },
+  useNextSeoProps: () => ({ titleTemplate: "Pigeons" }),
   head: () => {
     const { asPath } = useRouter()
     const { frontMatter } = useConfig()
@@ -36,7 +37,7 @@ const config: DocsThemeConfig = {
       <meta property="og:viewport" content="initial-scale=1.0, width=device-width" />
       <meta property="og:url" content={`https://pigeons.monster${asPath}`} />
       <meta property="og:title" content={frontMatter.title || "Pigeons"} />
-      <meta property="og:suffix" content={frontMatter.suffix || "."} />
+      <meta property="og:suffix" content={frontMatter.suffix || ""} />
       <meta property="og:description" content={frontMatter.description || "Unoffical Don't Feed The Pigeons"} />
       <meta property="og:image" content="https://pigeons.monster/_assets/_social/12-pigeons.jpeg" />
       <meta property="twitter:url" content="https://pigeons.monster" />
