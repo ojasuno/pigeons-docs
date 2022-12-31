@@ -6,6 +6,12 @@
 
 ---
 
+[**Panel Page →**](https://www.pigeons.monster/panel/)
+
+![Panel](public/_assets/_social/dftp.jpeg)
+
+---
+
 ## More Stuff
 
 A WIP project, built and maintained by a [JOSIE](https://josie.io/) community member.
